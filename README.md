@@ -1,4 +1,4 @@
-# Research_Project
+# Analysis_of_Judicial_Opinion_Complexity
 
 This is the Repo for my capstone research project.
 
